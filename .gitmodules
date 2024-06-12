@@ -1,0 +1,6 @@
+[submodule "parcial-1/codigo-en-clase-parcial-1"]
+	path = parcial-1/codigo-en-clase-parcial-1
+	url = https://github.com/bryaneduarr/codigo-en-clase-parcial-1
+[submodule "parcial-1/tareas/QuizRapidoParcial1ProgramacionMovil1"]
+	path = parcial-1/tareas/QuizRapidoParcial1ProgramacionMovil1
+	url = https://github.com/bryaneduarr/QuizRapidoParcial1ProgramacionMovil1
