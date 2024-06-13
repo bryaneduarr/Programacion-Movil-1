@@ -7,3 +7,6 @@
 [submodule "parcial-1/tareas/Quiz-Rapido-1.2"]
 	path = parcial-1/tareas/Quiz-Rapido-1.2
 	url = https://github.com/bryaneduarr/Quiz-Rapido-1.2
+[submodule "parcial-1/tareas/codigoenclasekotlin"]
+	path = parcial-1/tareas/codigoenclasekotlin
+	url = https://github.com/bryaneduarr/Codigo-En-Clase-Kotlin-Parcial-1
