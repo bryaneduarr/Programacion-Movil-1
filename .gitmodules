@@ -13,3 +13,6 @@
 [submodule "parcial-1/examen/PM1E1-0048-1064-0788"]
 	path = parcial-1/examen/PM1E1-0048-1064-0788
 	url = https://github.com/bryaneduarr/PM1E1-0048-1064-0788
+[submodule "parcial-3/Proyecto_Final_Car_Wash"]
+	path = parcial-3/Proyecto_Final_Car_Wash
+	url = https://github.com/bryaneduarr/Proyecto-Final-Programacion-Movil-1-Car-Wash.git
