@@ -16,3 +16,6 @@
 [submodule "parcial-3/Proyecto_Final_Car_Wash"]
 	path = parcial-3/Proyecto_Final_Car_Wash
 	url = https://github.com/bryaneduarr/Proyecto-Final-Programacion-Movil-1-Car-Wash.git
+[submodule "parcial-2/Programacion-Movil-1-Crud-Php-Parcial-2"]
+	path = parcial-2/Programacion-Movil-1-Crud-Php-Parcial-2
+	url = https://github.com/bryaneduarr/Programacion-Movil-1-Crud-Php-Parcial-2
