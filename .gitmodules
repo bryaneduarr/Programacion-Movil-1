@@ -19,3 +19,6 @@
 [submodule "parcial-2/Programacion-Movil-1-Crud-Php-Parcial-2"]
 	path = parcial-2/Programacion-Movil-1-Crud-Php-Parcial-2
 	url = https://github.com/bryaneduarr/Programacion-Movil-1-Crud-Php-Parcial-2
+[submodule "parcial-2/HTTP_Request_CRUD"]
+	path = parcial-2/HTTP_Request_CRUD
+	url = https://github.com/bryaneduarr/Android-HTTP-Request-CRUD.git
