@@ -22,3 +22,9 @@
 [submodule "parcial-2/HTTP_Request_CRUD"]
 	path = parcial-2/HTTP_Request_CRUD
 	url = https://github.com/bryaneduarr/Android-HTTP-Request-CRUD.git
+[submodule "parcial-2/tareas/Tomar_Video_Grupo_1_Tarea_2.1"]
+	path = parcial-2/tareas/Tomar_Video_Grupo_1_Tarea_2.1
+	url = https://github.com/bryaneduarr/Tomar_Video_Grupo_1_Tarea_2.1
+[submodule "parcial-2/tareas/Request_Api_Grupo_1_Tarea_2.2"]
+	path = parcial-2/tareas/Request_Api_Grupo_1_Tarea_2.2
+	url = https://github.com/bryaneduarr/Request_Api_Grupo_1_Tarea_2.2
