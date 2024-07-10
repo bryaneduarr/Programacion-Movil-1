@@ -28,3 +28,6 @@
 [submodule "parcial-2/tareas/Request_Api_Grupo_1_Tarea_2.2"]
 	path = parcial-2/tareas/Request_Api_Grupo_1_Tarea_2.2
 	url = https://github.com/bryaneduarr/Request_Api_Grupo_1_Tarea_2.2
+[submodule "parcial-2/tareas/List_View_Get_Http"]
+	path = parcial-2/tareas/List_View_Get_Http
+	url = https://github.com/bryaneduarr/List-View-Get-Http-Php.git
