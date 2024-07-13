@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foto_SQLite</string>
+    <string name="descripcionTextView">Descripcion</string>
+    <string name="verFotosButton">Ver fotos</string>
+    <string name="guardarButton">Guardar foto</string>
+    <string name="regresarButton">Regresar</string>
+</resources>
