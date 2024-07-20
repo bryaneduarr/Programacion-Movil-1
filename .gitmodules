@@ -31,3 +31,12 @@
 [submodule "parcial-2/tareas/List_View_Get_Http"]
 	path = parcial-2/tareas/List_View_Get_Http
 	url = https://github.com/bryaneduarr/List-View-Get-Http-Php.git
+[submodule "parcial-2/examen/PM1ExamenGrupo1"]
+	path = parcial-2/examen/PM1ExamenGrupo1
+	url = https://github.com/bryaneduarr/PM1ExamenGrupo1
+[submodule "parcial-2/examen/examen-rest-api"]
+	path = parcial-2/examen/examen-rest-api
+	url = https://github.com/bryaneduarr/CRUD-PHP-Examen-PM01-Parcial-2
+[submodule "parcial-2/tareas/Reconocimiento_Voz_Texto"]
+	path = parcial-2/tareas/Reconocimiento_Voz_Texto
+	url = https://github.com/bryaneduarr/Reconocimiento-Voz-Java
