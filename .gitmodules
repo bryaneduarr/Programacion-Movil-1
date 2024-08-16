@@ -49,3 +49,6 @@
 [submodule "parcial-3/tareas/Firebase_CRUD"]
 	path = parcial-3/tareas/Firebase_CRUD
 	url = https://github.com/bryaneduarr/firebase-crud.git
+[submodule "parcial-3/examen/PM1ExamenBryanEduardoFernandezParcial3"]
+	path = parcial-3/examen/PM1ExamenBryanEduardoFernandezParcial3
+	url = https://github.com/bryaneduarr/PM1ExamenBryanEduardoFernandezParcial3.git
